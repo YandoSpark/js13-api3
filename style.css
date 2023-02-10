@@ -1,0 +1,56 @@
+body{
+    background-image:url(WIZ.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    font-size: 60px;
+    margin: 0px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    color: white ;
+    text-shadow: 2px 0 0 #000, 0 -2px 0 #000, 0 2px 0 #000, -2px 0 0 #000;
+}
+.container2 div {
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    te
+}
+#name{
+    font-size: 30px;
+}
+input {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    background: transparent;
+    color: white;
+    font-weight: bold;
+}
+button {
+
+    padding-left: 86px;
+    padding-right: 86px;
+    border: 1px solid black;
+    padding-bottom: 10px;
+    background: transparent;
+    color: white;
+    font-weight: bold;
+    padding-top: 10px;
+    font-size: ;
+}
+
+.vær {
+    font-size: 80px;
+    font-weight: bold;
+}
+::placeholder { 
+    color: white;
+    opacity: 1;
+  }
+
+  img{
+    border-radius: 10px;
+  }
